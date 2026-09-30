@@ -1,0 +1,242 @@
+1:"$Sreact.fragment"
+2:I[5247,["500","static/chunks/500-c99b8dfd3de17c86.js","177","static/chunks/app/layout-9c54f5721054c8a1.js"],"SiteHeader"]
+3:I[7121,[],""]
+4:I[4581,[],""]
+6:I[484,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[484,[],"ViewportBoundary"]
+c:I[484,[],"MetadataBoundary"]
+e:I[7123,[],"default",1]
+:HL["/no-base-potatoes-site/_next/static/css/97cfb3d7cca5ddb0.css","style"]
+0:{"P":null,"c":["","reviews","vue-request-state-flow",""],"q":"","i":false,"f":[[["",{"children":["reviews",{"children":[["slug","vue-request-state-flow","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/no-base-potatoes-site/_next/static/css/97cfb3d7cca5ddb0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"site-shell footer-inner","children":[["$","span",null,{"children":"NO BASE POTATOES"}],["$","span",null,{"children":"SKALA 4기"}]]}]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],null]}],false]],"m":"$undefined","G":["$e",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"lrnt0F_yAUeq3bFS62QC_"}
+f:[]
+9:"$Wf"
+10:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","112","static/chunks/app/reviews/%5Bslug%5D/page-edef31666920c385.js"],""]
+11:I[2688,["500","static/chunks/500-c99b8dfd3de17c86.js","112","static/chunks/app/reviews/%5Bslug%5D/page-edef31666920c385.js"],"default"]
+5:["$","main",null,{"className":"article-shell review-article-shell","children":["$","article",null,{"children":[null,["$","header",null,{"className":"article-header","children":[["$","nav",null,{"className":"article-back","aria-label":"목록으로 돌아가기","children":["$","$L10",null,{"href":"/materials#schedule","children":["← ","학습 일정으로"]}]}],["$","h1",null,{"children":"Vue HTTP 요청 — 대기·성공·실패 화면 연결하기"}],null,[["$","p",null,{"className":"article-kind-meta","children":"Front-framework: Vue.js"}],["$","p",null,{"className":"article-kind-meta","children":["수업일 · ","2026-08-04"," · 예상 ",40,"분"]}]]]}],["$","details",null,{"className":"review-table-of-contents learning-disclosure","children":[["$","summary",null,{"children":["확인 지점 ",4,"개 펼치기"]}],["$","nav",null,{"aria-label":"복습 목차","children":["$","ol",null,{"children":[["$","li","preflight",{"children":["$","a",null,{"href":"#preflight","children":[["$","span",null,{"children":"01"}],"새 폴더에서 요청 전 화면 열기"]}]}],["$","li","request-success",{"children":["$","a",null,{"href":"#request-success","children":[["$","span",null,{"children":"02"}],"대기에서 성공으로 바꾸기"]}]}],["$","li","request-error",{"children":["$","a",null,{"href":"#request-error","children":[["$","span",null,{"children":"03"}],"없는 파일의 실패를 복구하기"]}]}],["$","li","cleanup",{"children":["$","a",null,{"href":"#cleanup","children":[["$","span",null,{"children":"04"}],"이번 서버만 종료하기"]}]}]]}]}]]}],null,["$","div",null,{"className":"markdown-body","children":[[["$","p","p-0",{"children":["도시 목록을 가져오는 버튼을 눌렀습니다. 아직 응답이 없을 때, 목록이 도착했을 때, 파일을 찾지 못했을 때 화면은 어떻게 달라져야 할까요? 이번 목표는 ",["$","strong","strong-0",{"children":"HTTP 요청의 결과를 Vue 상태로 옮기고, 성공과 실패 모두에서 다시 누를 수 있게 만드는 것"}],"입니다."]}],"\n",["$","p","p-1",{"children":"HTTP는 브라우저와 서버가 요청·응답을 주고받는 약속입니다. GET은 여기서 파일을 읽어 달라는 요청입니다. Axios는 그 요청을 보내는 라이브러리이고, Vue는 받은 결과를 화면에 반영합니다. JSON은 객체·배열을 글자로 저장한 데이터 형식입니다. 외부 날씨 서비스 대신 같은 개발 서버의 가상 도시 파일을 사용합니다. 실제 날씨나 데이터베이스 저장 기능은 아닙니다."}],"\n",["$","p","p-2",{"children":["이전 글의 파일은 필요하지 않습니다. ",["$","code","code-0",{"className":"$undefined","children":"ref"}],", 클릭 이벤트, ",["$","code","code-1",{"className":"$undefined","children":"v-if"}],"·",["$","code","code-2",{"className":"$undefined","children":"v-for"}],"를 다시 사용하며 ",["$","code","code-3",{"className":"$undefined","children":"async/await"}],"와 오류 처리는 아래에서 설명합니다. 시간 표시는 편성용 추정이며 학습자 실측이 아닙니다. Router·Pinia는 후속 편, POST·PUT·DELETE·원격 API·인증·interceptor·동시 요청은 이번 범위 밖입니다."]}],"\n",["$","h3","h3-0",{"children":"교안 범위표"}],"\n",["$","div","table-0",{"className":"markdown-table-scroll","role":"region","aria-label":"비교 표 — 좌우로 움직이면 전체 내용을 볼 수 있습니다","tabIndex":0,"children":[["$","span",null,{"className":"markdown-table-scroll-hint","aria-hidden":"true","children":"옆으로 밀어서 비교 →"}],["$","table",null,{"children":[["$","thead","thead-0",{"children":["$","tr","tr-0",{"children":[["$","th","th-0",{"children":"확인 지점"}],["$","th","th-1",{"children":"다시 보는 교안 범위"}],["$","th","th-2",{"children":"직접 확인할 결과"}]]}]}],["$","tbody","tbody-0",{"children":[["$","tr","tr-0",{"children":[["$","td","td-0",{"children":"1"}],["$","td","td-1",{"children":"p193–196 HTTP·역할, p202 설치"}],["$","td","td-2",{"children":"요청 전 idle 화면"}]]}],["$","tr","tr-1",{"children":[["$","td","td-0",{"children":"2"}],["$","td","td-1",{"children":"p201–207 Axios GET, p239–240 비동기"}],["$","td","td-2",{"children":"loading 뒤 success와 도시 목록"}]]}],["$","tr","tr-2",{"children":[["$","td","td-0",{"children":"3"}],["$","td","td-1",{"children":"p206 오류 처리, p239 종료 처리"}],["$","td","td-2",{"children":"실제 404, error, 정상 주소 재시도"}]]}],["$","tr","tr-3",{"children":[["$","td","td-0",{"children":"4"}],["$","td","td-1",{"children":"로컬 실행 안전 절차"}],["$","td","td-2",{"children":"서버 종료와 파일 보존"}]]}]]}]]}]]}],"\n",["$","p","p-3",{"children":"강병호 「Frontend-framework Vue.js」 275쪽 교안의 물리 페이지 기준입니다. 학습용 자격 증명도 필요하지 않습니다. 실제 자격 증명·API 키·개인정보는 입력하지 마세요. p203의 외부 서비스 키는 사용하지 않습니다. 설치 때 공개 npm 패키지를 받지만 실습 요청은 로컬 서버 하나에만 보냅니다."}],"\n",["$","h2","h2-0",{"id":"preflight","children":[["$","span",null,{"className":"review-checkpoint-number","aria-hidden":"true","children":"01"}],"새 폴더에서 요청 전 화면 열기"]}],"\n",["$","p","p-4",{"children":"Mac 터미널·편집기·브라우저와 이미 설치된 Node.js·npm을 사용합니다. 기준 환경은 Node 26.7.0/npm 11.19.0입니다. 다른 환경은 미확인입니다. 명령을 찾지 못하면 여기서 멈추고 환경 준비 도움을 받으세요. 전역 설치나 기존 프로젝트 변경은 하지 않습니다."}],"\n",["$","p","p-5",{"children":"현재 위치와 기존 파일을 확인합니다."}],"\n",["$","$L11","pre-0",{"code":"pwd","children":["$","code","code-0",{"className":"hljs language-bash","dangerouslySetInnerHTML":{"__html":"<span class=\"hljs-built_in\">pwd</span>"}}]}],"\n","$L12","\n","$L13","\n","$L14","\n","$L15","\n","$L16","\n","$L17","\n","$L18","\n","$L19","\n","$L1a","\n","$L1b","\n","$L1c","\n","$L1d","\n","$L1e","\n","$L1f","\n","$L20","\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d"],null]}],null,null,null,null,null,"$L4e"]}]}]
+54:I[8358,["500","static/chunks/500-c99b8dfd3de17c86.js","112","static/chunks/app/reviews/%5Bslug%5D/page-edef31666920c385.js"],"default"]
+12:["$","p","p-6",{"children":"현재 폴더의 절대 경로가 나옵니다."}]
+13:["$","$L11","pre-1",{"code":"ls","children":["$","code","code-0",{"className":"hljs language-bash","dangerouslySetInnerHTML":{"__html":"<span class=\"hljs-built_in\">ls</span>"}}]}]
+14:["$","p","p-7",{"children":"기존 목록이 보이며 이 파일들은 수정하지 않습니다."}]
+15:["$","$L11","pre-2",{"code":"node --version","children":["$","code","code-0",{"className":"hljs language-bash","dangerouslySetInnerHTML":{"__html":"node --version"}}]}]
+16:["$","p","p-8",{"children":"Node 버전이 표시됩니다."}]
+17:["$","$L11","pre-3",{"code":"npm --version","children":["$","code","code-0",{"className":"hljs language-bash","dangerouslySetInnerHTML":{"__html":"npm --version"}}]}]
+18:["$","p","p-9",{"children":"npm 버전이 표시됩니다. 이번 서버의 5183번 포트가 사용 중인지 봅니다."}]
+19:["$","$L11","pre-4",{"code":"lsof -nP -iTCP:5183 -sTCP:LISTEN","children":["$","code","code-0",{"className":"hljs language-bash","dangerouslySetInnerHTML":{"__html":"lsof -nP -iTCP:5183 -sTCP:LISTEN"}}]}]
+1a:["$","p","p-10",{"children":["출력이 없고 오류 문구도 없으면 이 조회에서 대기 서버를 찾지 못한 것입니다. 이때 종료 코드 1은 가능합니다. 목록이 나오면 다른 프로세스를 종료하지 말고 멈추세요. ",["$","code","code-0",{"className":"$undefined","children":"--strictPort"}],"가 시작 때도 충돌을 확인합니다."]}]
+1b:["$","p","p-11",{"children":["편집기나 파일 탐색기에서 현재 위치 아래에 새 빈 폴더 ",["$","code","code-0",{"className":"$undefined","children":"nbp-vue-request-review"}],"를 만듭니다. 같은 이름이 이미 있으면 덮어쓰지 말고 멈추세요. 이후 모든 파일은 이곳에만 둡니다."]}]
+1c:["$","$L11","pre-5",{"code":"cd nbp-vue-request-review","children":["$","code","code-0",{"className":"hljs language-bash","dangerouslySetInnerHTML":{"__html":"<span class=\"hljs-built_in\">cd</span> nbp-vue-request-review"}}]}]
+1d:["$","p","p-12",{"children":"정상 이동은 출력이 없습니다."}]
+1e:["$","$L11","pre-6",{"code":"pwd","children":["$","code","code-0",{"className":"hljs language-bash","dangerouslySetInnerHTML":{"__html":"<span class=\"hljs-built_in\">pwd</span>"}}]}]
+1f:["$","p","p-13",{"children":[["$","code","code-0",{"className":"$undefined","children":"nbp-vue-request-review"}],"로 끝나는 새 학습 폴더의 경로여야 합니다. 편집기에서 이 폴더를 여세요."]}]
+20:["$","$L11","pre-7",{"code":"ls -A","children":["$","code","code-0",{"className":"hljs language-bash","dangerouslySetInnerHTML":{"__html":"<span class=\"hljs-built_in\">ls</span> -A"}}]}]
+21:["$","p","p-14",{"children":"새 폴더이므로 출력이 없어야 합니다."}]
+22:["$","$L11","pre-8",{"code":"mkdir src public","children":["$","code","code-0",{"className":"hljs language-bash","dangerouslySetInnerHTML":{"__html":"<span class=\"hljs-built_in\">mkdir</span> src public"}}]}]
+23:["$","p","p-15",{"children":"출력 없이 두 하위 폴더가 만들어집니다. 편집기에서 아래 여섯 파일을 새로 만들고 전체 내용을 저장합니다. 별도 프로젝트 생성 명령은 실행하지 않습니다."}]
+24:["$","p","p-16",{"children":[["$","code","code-0",{"className":"$undefined","children":"package.json"}]," 전체 — 패키지 버전과 개발 서버 명령입니다."]}]
+4f:T8fa,<span class="hljs-punctuation">{</span>
+  <span class="hljs-attr">&quot;name&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;nbp-vue-request-review&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;private&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-literal"><span class="hljs-keyword">true</span></span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;version&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;1.0.0&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;type&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;module&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;scripts&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">&quot;dev&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;vite --host 127.0.0.1 --port 5183 --strictPort&quot;</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;dependencies&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">&quot;vue&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;3.5.42&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;axios&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;1.20.0&quot;</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;devDependencies&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">&quot;vite&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;8.3.0&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;@vitejs/plugin-vue&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;6.0.9&quot;</span>
+  <span class="hljs-punctuation">}</span>
+<span class="hljs-punctuation">}</span>25:["$","$L11","pre-9",{"code":"{\n  \"name\": \"nbp-vue-request-review\",\n  \"private\": true,\n  \"version\": \"1.0.0\",\n  \"type\": \"module\",\n  \"scripts\": {\n    \"dev\": \"vite --host 127.0.0.1 --port 5183 --strictPort\"\n  },\n  \"dependencies\": {\n    \"vue\": \"3.5.42\",\n    \"axios\": \"1.20.0\"\n  },\n  \"devDependencies\": {\n    \"vite\": \"8.3.0\",\n    \"@vitejs/plugin-vue\": \"6.0.9\"\n  }\n}","children":["$","code","code-0",{"className":"hljs language-json","dangerouslySetInnerHTML":{"__html":"$4f"}}]}]
+26:["$","p","p-17",{"children":[["$","code","code-0",{"className":"$undefined","children":"vite.config.js"}]," 전체 — Vue 파일 처리 기능을 연결합니다. ",["$","code","code-1",{"className":"$undefined","children":"appType: 'mpa'"}],"는 없는 데이터 주소를 첫 HTML로 대신 응답하지 않게 해 진짜 404를 관찰하기 위한 설정입니다. 이 편은 Router를 사용하지 않습니다."]}]
+27:["$","$L11","pre-10",{"code":"import { defineConfig } from 'vite'\nimport vue from '@vitejs/plugin-vue'\n\nexport default defineConfig({\n  plugins: [vue()],\n  appType: 'mpa'\n})","children":["$","code","code-0",{"className":"hljs language-javascript","dangerouslySetInnerHTML":{"__html":"<span class=\"hljs-keyword\">import</span> { defineConfig } <span class=\"hljs-keyword\">from</span> <span class=\"hljs-string\">&#x27;vite&#x27;</span>\n<span class=\"hljs-keyword\">import</span> vue <span class=\"hljs-keyword\">from</span> <span class=\"hljs-string\">&#x27;@vitejs/plugin-vue&#x27;</span>\n\n<span class=\"hljs-keyword\">export</span> <span class=\"hljs-keyword\">default</span> <span class=\"hljs-title function_\">defineConfig</span>({\n  <span class=\"hljs-attr\">plugins</span>: [<span class=\"hljs-title function_\">vue</span>()],\n  <span class=\"hljs-attr\">appType</span>: <span class=\"hljs-string\">&#x27;mpa&#x27;</span>\n})"}}]}]
+28:["$","p","p-18",{"children":[["$","code","code-0",{"className":"$undefined","children":"index.html"}]," 전체 — 화면 부품을 붙일 자리와 시작 파일입니다."]}]
+50:T723,<span class="hljs-meta">&lt;!doctype <span class="hljs-keyword">html</span>&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">html</span> <span class="hljs-attr">lang</span>=<span class="hljs-string">&quot;ko&quot;</span>&gt;</span>
+  <span class="hljs-tag">&lt;<span class="hljs-name">head</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">meta</span> <span class="hljs-attr">charset</span>=<span class="hljs-string">&quot;UTF-8&quot;</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">meta</span> <span class="hljs-attr">name</span>=<span class="hljs-string">&quot;viewport&quot;</span> <span class="hljs-attr">content</span>=<span class="hljs-string">&quot;width=device-width, initial-scale=1.0&quot;</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">title</span>&gt;</span>도시 요청 복습<span class="hljs-tag">&lt;/<span class="hljs-name">title</span>&gt;</span>
+  <span class="hljs-tag">&lt;/<span class="hljs-name">head</span>&gt;</span>
+  <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">id</span>=<span class="hljs-string">&quot;app&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;module&quot;</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;/src/main.js&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
+  <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>29:["$","$L11","pre-11",{"code":"<!doctype html>\n<html lang=\"ko\">\n  <head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>도시 요청 복습</title>\n  </head>\n  <body>\n    <div id=\"app\"></div>\n    <script type=\"module\" src=\"/src/main.js\"></script>\n  </body>\n</html>","children":["$","code","code-0",{"className":"hljs language-html","dangerouslySetInnerHTML":{"__html":"$50"}}]}]
+2a:["$","p","p-19",{"children":[["$","code","code-0",{"className":"$undefined","children":"src/main.js"}]," 전체:"]}]
+2b:["$","$L11","pre-12",{"code":"import { createApp } from 'vue'\nimport App from './App.vue'\n\ncreateApp(App).mount('#app')","children":["$","code","code-0",{"className":"hljs language-javascript","dangerouslySetInnerHTML":{"__html":"<span class=\"hljs-keyword\">import</span> { createApp } <span class=\"hljs-keyword\">from</span> <span class=\"hljs-string\">&#x27;vue&#x27;</span>\n<span class=\"hljs-keyword\">import</span> <span class=\"hljs-title class_\">App</span> <span class=\"hljs-keyword\">from</span> <span class=\"hljs-string\">&#x27;./App.vue&#x27;</span>\n\n<span class=\"hljs-title function_\">createApp</span>(<span class=\"hljs-title class_\">App</span>).<span class=\"hljs-title function_\">mount</span>(<span class=\"hljs-string\">&#x27;#app&#x27;</span>)"}}]}]
+2c:["$","p","p-20",{"children":[["$","code","code-0",{"className":"$undefined","children":"public/cities.json"}]," 전체 — ",["$","code","code-1",{"className":"$undefined","children":"public"}]," 파일은 주소에서 ",["$","code","code-2",{"className":"$undefined","children":"public"}],"을 빼고 요청합니다."]}]
+51:T4e0,<span class="hljs-punctuation">[</span>
+  <span class="hljs-punctuation">{</span> <span class="hljs-attr">&quot;id&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;seoul&quot;</span><span class="hljs-punctuation">,</span> <span class="hljs-attr">&quot;name&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;서울&quot;</span><span class="hljs-punctuation">,</span> <span class="hljs-attr">&quot;temperature&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-number">24</span> <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-punctuation">{</span> <span class="hljs-attr">&quot;id&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;suwon&quot;</span><span class="hljs-punctuation">,</span> <span class="hljs-attr">&quot;name&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;수원&quot;</span><span class="hljs-punctuation">,</span> <span class="hljs-attr">&quot;temperature&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-number">22</span> <span class="hljs-punctuation">}</span>
+<span class="hljs-punctuation">]</span>2d:["$","$L11","pre-13",{"code":"[\n  { \"id\": \"seoul\", \"name\": \"서울\", \"temperature\": 24 },\n  { \"id\": \"suwon\", \"name\": \"수원\", \"temperature\": 22 }\n]","children":["$","code","code-0",{"className":"hljs language-json","dangerouslySetInnerHTML":{"__html":"$51"}}]}]
+2e:["$","p","p-21",{"children":[["$","code","code-0",{"className":"$undefined","children":"src/App.vue"}]," 전체:"]}]
+52:T7a0,<script setup>
+import { ref } from 'vue'
+import axios from 'axios'
+
+const url = ref('/cities.json')
+const status = ref('idle')
+const loading = ref(false)
+const cities = ref([])
+const errorMessage = ref('')
+const slowDemo = ref(false)
+
+async function loadCities() {
+  loading.value = true
+  status.value = 'loading'
+  cities.value = []
+  errorMessage.value = ''
+  try {
+    // 관찰용: 실제 요청을 보내기 전에 800ms 기다립니다.
+    if (slowDemo.value) {
+      await new Promise(resolve => setTimeout(resolve, 800))
+    }
+    const response = await axios.get(url.value)
+    cities.value = response.data
+    status.value = 'success'
+  } catch (error) {
+    errorMessage.value = error.response
+      ? 'HTTP ' + error.response.status
+      : '서버에 연결할 수 없습니다'
+    status.value = 'error'
+  } finally {
+    loading.value = false
+  }
+}
+</script>
+
+<template>
+  <main>
+    <h1>도시 요청 복습</h1>
+    <label>
+      요청 주소
+      <select v-model="url" :disabled="loading">
+        <option value="/cities.json">정상 파일</option>
+        <option value="/missing-cities.json">없는 파일</option>
+      </select>
+    </label>
+    <label>
+      <input v-model="slowDemo" type="checkbox" :disabled="loading">
+      대기 관찰용 800ms 지연
+    </label>
+    <button :disabled="loading" @click="loadCities">
+      {{ loading ? '요청 처리 중' : '가져오기 / 재시도' }}
+    </button>
+    <p>상태: {{ status }}</p>
+    <p v-if="status === 'idle'">아직 요청하지 않았습니다.</p>
+    <p v-else-if="status === 'loading'">결과를 기다립니다.</p>
+    <section v-else-if="status === 'success'">
+      <p>도시 {{ cities.length }}개</p>
+      <ul>
+        <li v-for="city in cities" :key="city.id">
+          {{ city.name }}: {{ city.temperature }}°C
+        </li>
+      </ul>
+    </section>
+    <p v-else role="alert">가져오기 실패: {{ errorMessage }}</p>
+  </main>
+</template>53:T1f99,<span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">setup</span>&gt;</span><span class="language-javascript">
+<span class="hljs-keyword">import</span> { ref } <span class="hljs-keyword">from</span> <span class="hljs-string">&#x27;vue&#x27;</span>
+<span class="hljs-keyword">import</span> axios <span class="hljs-keyword">from</span> <span class="hljs-string">&#x27;axios&#x27;</span>
+
+<span class="hljs-keyword">const</span> url = <span class="hljs-title function_">ref</span>(<span class="hljs-string">&#x27;/cities.json&#x27;</span>)
+<span class="hljs-keyword">const</span> status = <span class="hljs-title function_">ref</span>(<span class="hljs-string">&#x27;idle&#x27;</span>)
+<span class="hljs-keyword">const</span> loading = <span class="hljs-title function_">ref</span>(<span class="hljs-literal">false</span>)
+<span class="hljs-keyword">const</span> cities = <span class="hljs-title function_">ref</span>([])
+<span class="hljs-keyword">const</span> errorMessage = <span class="hljs-title function_">ref</span>(<span class="hljs-string">&#x27;&#x27;</span>)
+<span class="hljs-keyword">const</span> slowDemo = <span class="hljs-title function_">ref</span>(<span class="hljs-literal">false</span>)
+
+<span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">loadCities</span>(<span class="hljs-params"></span>) {
+  loading.<span class="hljs-property">value</span> = <span class="hljs-literal">true</span>
+  status.<span class="hljs-property">value</span> = <span class="hljs-string">&#x27;loading&#x27;</span>
+  cities.<span class="hljs-property">value</span> = []
+  errorMessage.<span class="hljs-property">value</span> = <span class="hljs-string">&#x27;&#x27;</span>
+  <span class="hljs-keyword">try</span> {
+    <span class="hljs-comment">// 관찰용: 실제 요청을 보내기 전에 800ms 기다립니다.</span>
+    <span class="hljs-keyword">if</span> (slowDemo.<span class="hljs-property">value</span>) {
+      <span class="hljs-keyword">await</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">Promise</span>(<span class="hljs-function"><span class="hljs-params">resolve</span> =&gt;</span> <span class="hljs-built_in">setTimeout</span>(resolve, <span class="hljs-number">800</span>))
+    }
+    <span class="hljs-keyword">const</span> response = <span class="hljs-keyword">await</span> axios.<span class="hljs-title function_">get</span>(url.<span class="hljs-property">value</span>)
+    cities.<span class="hljs-property">value</span> = response.<span class="hljs-property">data</span>
+    status.<span class="hljs-property">value</span> = <span class="hljs-string">&#x27;success&#x27;</span>
+  } <span class="hljs-keyword">catch</span> (error) {
+    errorMessage.<span class="hljs-property">value</span> = error.<span class="hljs-property">response</span>
+      ? <span class="hljs-string">&#x27;HTTP &#x27;</span> + error.<span class="hljs-property">response</span>.<span class="hljs-property">status</span>
+      : <span class="hljs-string">&#x27;서버에 연결할 수 없습니다&#x27;</span>
+    status.<span class="hljs-property">value</span> = <span class="hljs-string">&#x27;error&#x27;</span>
+  } <span class="hljs-keyword">finally</span> {
+    loading.<span class="hljs-property">value</span> = <span class="hljs-literal">false</span>
+  }
+}
+</span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
+
+<span class="hljs-tag">&lt;<span class="hljs-name">template</span>&gt;</span>
+  <span class="hljs-tag">&lt;<span class="hljs-name">main</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>도시 요청 복습<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">label</span>&gt;</span>
+      요청 주소
+      <span class="hljs-tag">&lt;<span class="hljs-name">select</span> <span class="hljs-attr">v-model</span>=<span class="hljs-string">&quot;url&quot;</span> <span class="hljs-attr">:disabled</span>=<span class="hljs-string">&quot;loading&quot;</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">option</span> <span class="hljs-attr">value</span>=<span class="hljs-string">&quot;/cities.json&quot;</span>&gt;</span>정상 파일<span class="hljs-tag">&lt;/<span class="hljs-name">option</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">option</span> <span class="hljs-attr">value</span>=<span class="hljs-string">&quot;/missing-cities.json&quot;</span>&gt;</span>없는 파일<span class="hljs-tag">&lt;/<span class="hljs-name">option</span>&gt;</span>
+      <span class="hljs-tag">&lt;/<span class="hljs-name">select</span>&gt;</span>
+    <span class="hljs-tag">&lt;/<span class="hljs-name">label</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">label</span>&gt;</span>
+      <span class="hljs-tag">&lt;<span class="hljs-name">input</span> <span class="hljs-attr">v-model</span>=<span class="hljs-string">&quot;slowDemo&quot;</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;checkbox&quot;</span> <span class="hljs-attr">:disabled</span>=<span class="hljs-string">&quot;loading&quot;</span>&gt;</span>
+      대기 관찰용 800ms 지연
+    <span class="hljs-tag">&lt;/<span class="hljs-name">label</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">button</span> <span class="hljs-attr">:disabled</span>=<span class="hljs-string">&quot;loading&quot;</span> @<span class="hljs-attr">click</span>=<span class="hljs-string">&quot;loadCities&quot;</span>&gt;</span>
+      {{ loading ? &#x27;요청 처리 중&#x27; : &#x27;가져오기 / 재시도&#x27; }}
+    <span class="hljs-tag">&lt;/<span class="hljs-name">button</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>상태: {{ status }}<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">v-if</span>=<span class="hljs-string">&quot;status === &#x27;idle&#x27;&quot;</span>&gt;</span>아직 요청하지 않았습니다.<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">v-else-if</span>=<span class="hljs-string">&quot;status === &#x27;loading&#x27;&quot;</span>&gt;</span>결과를 기다립니다.<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">section</span> <span class="hljs-attr">v-else-if</span>=<span class="hljs-string">&quot;status === &#x27;success&#x27;&quot;</span>&gt;</span>
+      <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>도시 {{ cities.length }}개<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+      <span class="hljs-tag">&lt;<span class="hljs-name">ul</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">li</span> <span class="hljs-attr">v-for</span>=<span class="hljs-string">&quot;city in cities&quot;</span> <span class="hljs-attr">:key</span>=<span class="hljs-string">&quot;city.id&quot;</span>&gt;</span>
+          {{ city.name }}: {{ city.temperature }}°C
+        <span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+      <span class="hljs-tag">&lt;/<span class="hljs-name">ul</span>&gt;</span>
+    <span class="hljs-tag">&lt;/<span class="hljs-name">section</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">v-else</span> <span class="hljs-attr">role</span>=<span class="hljs-string">&quot;alert&quot;</span>&gt;</span>가져오기 실패: {{ errorMessage }}<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+  <span class="hljs-tag">&lt;/<span class="hljs-name">main</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">template</span>&gt;</span>2f:["$","$L11","pre-14",{"code":"$52","children":["$","code","code-0",{"className":"hljs language-vue","dangerouslySetInnerHTML":{"__html":"$53"}}]}]
+30:["$","p","p-22",{"children":[["$","code","code-0",{"className":"$undefined","children":"ref"}],"는 변화를 화면에 알리는 값입니다. 코드에서는 ",["$","code","code-1",{"className":"$undefined","children":".value"}],"로 바꾸고 template에서는 이름만 씁니다. ",["$","code","code-2",{"className":"$undefined","children":"status"}],"는 표시할 결과 종류, ",["$","code","code-3",{"className":"$undefined","children":"loading"}],"은 버튼을 잠글지 결정합니다. 처음에는 idle이고 아직 요청하지 않았습니다."]}]
+31:["$","p","p-23",{"children":"설치와 실행을 차례로 합니다."}]
+32:["$","$L11","pre-15",{"code":"npm install","children":["$","code","code-0",{"className":"hljs language-bash","dangerouslySetInnerHTML":{"__html":"npm install"}}]}]
+33:["$","p","p-24",{"children":["성공하면 로컬 ",["$","code","code-0",{"className":"$undefined","children":"node_modules"}],"와 ",["$","code","code-1",{"className":"$undefined","children":"package-lock.json"}],"이 만들어집니다. 네트워크·버전 오류가 나면 임의 버전으로 바꾸지 말고 멈춥니다."]}]
+34:["$","$L11","pre-16",{"code":"npm run dev","children":["$","code","code-0",{"className":"hljs language-bash","dangerouslySetInnerHTML":{"__html":"npm run dev"}}]}]
+35:["$","p","p-25",{"children":[["$","code","code-0",{"className":"$undefined","children":"http://127.0.0.1:5183/"}],"가 표시되며 서버가 터미널을 계속 사용합니다. 포트 오류면 다른 서버를 끄지 말고 중단하세요. 이 터미널을 서버 전용으로 남깁니다."]}]
+36:["$","blockquote","blockquote-0",{"children":["\n",["$","p","p-0",{"children":"브라우저 실행"}],"\n",["$","p","p-1",{"children":["대상: ",["$","code","code-0",{"className":"$undefined","children":"http://127.0.0.1:5183/"}]]}],"\n",["$","p","p-2",{"children":"조작: 여섯 파일을 저장하고 npm run dev를 시작한 뒤 대상 주소를 열어 첫 화면을 봅니다. 아직 가져오기 버튼은 누르지 않습니다."}],"\n",["$","p","p-3",{"children":"확인: 도시 요청 복습 제목, 상태: idle, 아직 요청하지 않았습니다. 문구와 활성화된 가져오기 / 재시도 버튼이 보입니다."}],"\n"]}]
+37:["$","details","blockquote-1",{"className":"review-completion-example","children":[["$","summary",null,{"children":"완료 예시"}],["$","div",null,{"className":"review-completion-example-body","children":["\n","\n",["$","p",".$p-1",{"children":["실제 첫 화면은 ",["$","code","code-0",{"className":"$undefined","children":"상태: idle"}],", ",["$","code","code-1",{"className":"$undefined","children":"아직 요청하지 않았습니다."}],"였으며 도시 목록은 없었습니다. 가져오기 / 재시도 버튼은 활성화되어 있었습니다."]}],"\n"]}]]}]
+38:["$","h2","h2-1",{"id":"request-success","children":[["$","span",null,{"className":"review-checkpoint-number","aria-hidden":"true","children":"02"}],"대기에서 성공으로 바꾸기"]}]
+39:["$","p","p-26",{"children":"먼저 예상하세요. 버튼을 누르는 순간과 응답이 도착한 뒤에는 어느 문구가 보여야 할까요?"}]
+3a:["$","p","p-27",{"children":[["$","code","code-0",{"className":"$undefined","children":"async"}]," 함수 안의 ",["$","code","code-1",{"className":"$undefined","children":"await axios.get(...)"}],"는 응답이 올 때까지 그 함수의 다음 줄을 기다립니다. 브라우저 전체를 멈추지는 않습니다. 성공하면 Axios 응답의 ",["$","code","code-2",{"className":"$undefined","children":"data"}],"를 ",["$","code","code-3",{"className":"$undefined","children":"cities"}],"에 넣고 success로 바꿉니다. ",["$","code","code-4",{"className":"$undefined","children":"finally"}],"는 성공·실패 어느 쪽에서도 대기를 끝냅니다."]}]
+3b:["$","p","p-28",{"children":["로컬 파일은 빨라서 loading을 눈으로 놓칠 수 있습니다. ",["$","strong","strong-0",{"children":"대기 관찰용 800ms 지연"}],"을 체크하면 요청을 보내기 전에 일부러 0.8초 기다립니다. ",["$","code","code-0",{"className":"$undefined","children":"setTimeout"}],"이 시간이 지난 뒤 ",["$","code","code-1",{"className":"$undefined","children":"resolve"}],"를 호출하면 ",["$","code","code-2",{"className":"$undefined","children":"await"}],"가 이어집니다. 이것은 UI 상태를 볼 학습 장치이지 실제 서버가 느리거나 요청이 이미 진행 중이라는 증거가 아닙니다. 체크하지 않은 실행도 별도로 해 보세요."]}]
+3c:["$","blockquote","blockquote-2",{"children":["\n",["$","p","p-0",{"children":"브라우저 실행"}],"\n",["$","p","p-1",{"children":["대상: ",["$","code","code-0",{"className":"$undefined","children":"http://127.0.0.1:5183/"}]]}],"\n",["$","p","p-2",{"children":"조작: 정상 파일을 선택하고 대기 관찰용 800ms 지연을 체크한 뒤 가져오기 / 재시도를 누릅니다. 성공 후 public/cities.json의 서울 temperature만 24에서 27로 바꿔 저장하고 다시 가져오기를 누릅니다. 마지막으로 24로 복원해 저장하고 다시 요청합니다."}],"\n",["$","p","p-3",{"children":"확인: 클릭 직후 상태: loading과 잠긴 버튼, 이어서 상태: success와 도시 2개, 서울: 24°C·수원: 22°C가 보입니다. 파일 값을 바꾼 뒤 다시 요청하면 해당 도시의 표시도 달라집니다."}],"\n"]}]
+3d:["$","p","p-29",{"children":["왜 저장만 하는 것과 다시 요청하는 것이 다를까요? ",["$","code","code-0",{"className":"$undefined","children":"cities"}],"는 이전 응답을 담고 있습니다. 서버의 파일을 바꿨다고 이미 받은 응답 객체가 저절로 바뀌지는 않습니다. 새 GET 응답을 다시 대입해야 합니다. 변형 후 서울 값을 원래대로 돌려 다음 단계에 사용하세요."]}]
+3e:["$","details","blockquote-3",{"className":"review-completion-example","children":[["$","summary",null,{"children":"완료 예시"}],["$","div",null,{"className":"review-completion-example-body","children":["\n","\n",["$","p",".$p-1",{"children":["실제 상태는 ",["$","code","code-0",{"className":"$undefined","children":"idle → loading → success"}],"로 바뀌었고 대기 중 버튼은 잠겼습니다. 원형은 서울 24°C·수원 22°C였습니다. JSON을 27로 저장해도 재요청 전에는 서울 24°C가 남았고, 다시 요청하자 서울 27°C로 바뀌었습니다. 새 JSON 응답을 대입했기 때문입니다. 24로 복원하고 요청하자 원형으로 돌아왔습니다."]}],"\n"]}]]}]
+3f:["$","h2","h2-2",{"id":"request-error","children":[["$","span",null,{"className":"review-checkpoint-number","aria-hidden":"true","children":"03"}],"없는 파일의 실패를 복구하기"]}]
+40:["$","p","p-30",{"children":"정상 데이터가 한 번 보였어도 다음 요청이 성공한다는 보장은 없습니다. 없는 파일을 선택하면 도시가 0개인 성공일까요, 오류일까요? 빈 배열을 반환한 성공과 HTTP 404는 다릅니다."}]
+41:["$","p","p-31",{"children":["Axios의 기본 설정에서는 404 응답이 ",["$","code","code-0",{"className":"$undefined","children":"catch"}],"로 넘어옵니다. ",["$","code","code-1",{"className":"$undefined","children":"error.response.status"}],"는 HTTP 상태 번호입니다. 서버 연결 자체가 실패하면 응답이 없을 수 있어 먼저 ",["$","code","code-2",{"className":"$undefined","children":"error.response"}],"가 있는지 확인합니다. 요청 시작 때 지난 목록과 오류 문구를 비우므로 오래된 성공 목록을 새 결과처럼 보여 주지 않습니다."]}]
+42:["$","blockquote","blockquote-4",{"children":["\n",["$","p","p-0",{"children":"브라우저 실행"}],"\n",["$","p","p-1",{"children":["대상: ",["$","code","code-0",{"className":"$undefined","children":"http://127.0.0.1:5183/"}]]}],"\n",["$","p","p-2",{"children":"조작: 개발자 도구의 Network 탭을 열고 없는 파일을 선택해 가져오기 / 재시도를 누릅니다. missing-cities.json 요청의 Status를 봅니다. 정상 파일로 선택을 되돌리고 같은 버튼을 다시 누릅니다."}],"\n",["$","p","p-3",{"children":"확인: 없는 파일은 Network에서 404이고 화면은 상태: error, 가져오기 실패: HTTP 404입니다. loading이 끝나 버튼과 선택 상자가 다시 활성화됩니다. 정상 파일 재시도는 상태: success와 도시 2개로 돌아옵니다."}],"\n"]}]
+43:["$","p","p-32",{"children":["Network는 Chrome에서 메뉴의 보기 → 개발자 정보 → 개발자 도구로 열 수 있습니다. 요청을 누른 뒤 ",["$","code","code-0",{"className":"$undefined","children":"missing-cities.json"}]," 행을 선택해 상태 번호를 보세요. HTML이 200으로 반환된다면 성공으로 기록하지 말고 ",["$","code","code-1",{"className":"$undefined","children":"vite.config.js"}],"의 mpa 설정과 서버 재시작을 확인합니다. 설정을 고쳤다면 자신이 실행한 서버 터미널에서 Ctrl+C 후 ",["$","code","code-2",{"className":"$undefined","children":"npm run dev"}],"로 다시 시작합니다."]}]
+44:["$","p","p-33",{"children":["작은 변형으로 선택 주소만 정상→없음→정상으로 바꿨습니다. 오류 뒤에도 같은 함수를 다시 부를 수 있는 이유를 말해 보세요. ",["$","code","code-0",{"className":"$undefined","children":"finally"}],"가 없다면 오류 상태는 기록됐는데 버튼은 계속 잠기는 문제가 생길 수 있습니다."]}]
+45:["$","details","blockquote-5",{"className":"review-completion-example","children":[["$","summary",null,{"children":"완료 예시"}],["$","div",null,{"className":"review-completion-example-body","children":["\n","\n",["$","p",".$p-1",{"children":["실제 네트워크 응답은 ",["$","code","code-0",{"className":"$undefined","children":"GET /missing-cities.json → HTTP 404"}],"였고, 화면에 ",["$","code","code-1",{"className":"$undefined","children":"상태: error"}],"와 ",["$","code","code-2",{"className":"$undefined","children":"가져오기 실패: HTTP 404"}],"가 보였습니다. 버튼은 다시 활성화되었습니다. ",["$","code","code-3",{"className":"$undefined","children":"/cities.json"}],"을 재요청하자 도시 2개와 success가 돌아왔습니다. 404가 성공으로 바뀐 것이 아니라 새 요청이 성공한 것입니다."]}],"\n"]}]]}]
+46:["$","h2","h2-3",{"id":"cleanup","children":[["$","span",null,{"className":"review-checkpoint-number","aria-hidden":"true","children":"04"}],"이번 서버만 종료하기"]}]
+47:["$","p","p-34",{"children":"다른 작업의 터미널이나 서버는 건드리지 않습니다. 브라우저 탭만 닫으면 개발 서버는 남습니다."}]
+48:["$","blockquote","blockquote-6",{"children":["\n",["$","p","p-0",{"children":"브라우저 실습 종료"}],"\n",["$","p","p-1",{"children":["대상: ",["$","code","code-0",{"className":"$undefined","children":"http://127.0.0.1:5183/"}]]}],"\n",["$","p","p-2",{"children":"종료 방식: 서버 터미널 Ctrl+C"}],"\n",["$","p","p-3",{"children":"조작: 이번 폴더에서 npm run dev를 실행한 터미널만 선택해 Ctrl+C를 누릅니다. 같은 대상 주소를 새로고침해 새 요청을 시도합니다."}],"\n",["$","p","p-4",{"children":"보존: nbp-vue-request-review 학습 폴더와 여섯 원본 파일, package-lock.json, node_modules를 삭제하지 않고 남깁니다."}],"\n",["$","p","p-5",{"children":"확인: 터미널에 입력 프롬프트가 돌아오고 새 요청은 연결 실패가 됩니다. 이전 화면이 남아 있는 것만으로 서버 실행 여부를 판단하지 않습니다."}],"\n"]}]
+49:["$","details","blockquote-7",{"className":"review-completion-example","children":[["$","summary",null,{"children":"완료 예시"}],["$","div",null,{"className":"review-completion-example-body","children":["\n","\n",["$","p",".$p-1",{"children":"이번 서버 터미널에서 Ctrl+C로 종료한 뒤 새 요청은 연결 실패가 되었습니다. 학습 파일은 그대로 남았습니다. 없는 파일 요청의 HTTP 404는 실행 중인 서버의 응답이고, 종료 뒤 연결 실패는 서버에 연결할 수 없는 상태입니다."}],"\n"]}]]}]
+4a:["$","h3","h3-1",{"children":"스스로 확인"}]
+4b:["$","$L54","blockquote-8",{"definition":{"id":"check-0c2beedfcc","ariaLabel":"요청 결과와 대기 해제 연결하기","questions":[{"id":"check-0c2beedfcc","kicker":"선택해서 확인하기","submitLabel":"정답 확인","correctTitle":"맞았습니다","correctBody":["결과의 종류와 버튼 잠금은 서로 다른 값입니다. catch는 error를, finally는 대기 해제를 담당합니다."],"wrongBody":["status를 바꿔도 별도 ref인 loading은 자동으로 바뀌지 않습니다. finally에서 false로 돌려야 버튼 잠금이 풀립니다."],"type":"choice","prompt":["loading은 버튼의 :disabled에 연결된 ref이고 시작값은 false입니다. 아래 요청이 HTTP 404로 실패한 뒤 오류를 보여 주면서 버튼으로 재시도할 수 있는 이유는 무엇인가요?"],"code":"loading.value = true\ntry {\n  await axios.get('/missing-cities.json')\n  status.value = 'success'\n} catch {\n  status.value = 'error'\n} finally {\n  loading.value = false\n}","language":"javascript","legend":"정답 하나를 고르세요","options":[{"id":"correct-0c2beedfcc","label":"catch가 오류 상태를 기록하고 finally가 실패 때도 loading을 false로 돌린다."},{"id":"wrong-0c2beedfcc","label":"catch가 error를 기록하면 Vue가 loading도 자동으로 false로 바꾼다."}],"correctOptionId":"correct-0c2beedfcc"}]},"highlightedCodes":{"check-0c2beedfcc":"loading.<span class=\"hljs-property\">value</span> = <span class=\"hljs-literal\">true</span>\n<span class=\"hljs-keyword\">try</span> {\n  <span class=\"hljs-keyword\">await</span> axios.<span class=\"hljs-title function_\">get</span>(<span class=\"hljs-string\">&#x27;/missing-cities.json&#x27;</span>)\n  status.<span class=\"hljs-property\">value</span> = <span class=\"hljs-string\">&#x27;success&#x27;</span>\n} <span class=\"hljs-keyword\">catch</span> {\n  status.<span class=\"hljs-property\">value</span> = <span class=\"hljs-string\">&#x27;error&#x27;</span>\n} <span class=\"hljs-keyword\">finally</span> {\n  loading.<span class=\"hljs-property\">value</span> = <span class=\"hljs-literal\">false</span>\n}"}}]
+4c:["$","h3","h3-2",{"children":"근거와 제외 범위"}]
+4d:["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":"교안 p193–196의 HTTP 역할, p201–207의 Axios GET·오류 처리, p239–240의 Promise·async/await를 로컬 JSON 예제로 좁혔습니다. p203의 키나 외부 URL은 복제하지 않습니다."}],"\n",["$","li","li-1",{"children":[["$","a","a-0",{"href":"https://axios-http.com/docs/intro","target":"_blank","rel":"noreferrer","children":"Axios 시작 안내"}],"의 GET·response.data와 ",["$","a","a-1",{"href":"https://axios-http.com/docs/handling_errors","target":"_blank","rel":"noreferrer","children":"오류 처리"}],"의 기본 오류 분기를 참고했습니다."]}],"\n",["$","li","li-2",{"children":[["$","a","a-0",{"href":"https://vite.dev/config/shared-options.html#apptype","target":"_blank","rel":"noreferrer","children":"Vite appType"}],"에 따라 이 요청 실습은 mpa로 설정했습니다. 정적 파일 GET의 학습이지 실제 백엔드 구축은 아닙니다."]}],"\n",["$","li","li-3",{"children":"800ms 지연은 관찰 보조용으로 추가한 것이며 통신 성능 측정·timeout·재시도 자동화는 다루지 않습니다. 다른 OS·브라우저, 실제 초보 학습자의 소요시간과 학습 효과는 미확인입니다."}],"\n"]}]
+4e:["$","nav",null,{"className":"article-back article-back-bottom","aria-label":"학습 일정으로 돌아가기","children":["$","$L10",null,{"href":"/materials#schedule","children":"학습 일정으로 돌아가기"}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+55:I[6869,[],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Vue HTTP 요청 — 대기·성공·실패 화면 연결하기 | No Base Potatoes"}],["$","meta","1",{"name":"description","content":"로컬 JSON을 요청하고 대기·성공·404 실패·재시도에 맞춰 화면이 달라지는 이유를 확인합니다."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"No Base Potatoes"}],["$","meta","4",{"property":"og:description","content":"프로그래밍을 처음 배우는 사람이 수업 전에 읽는 근거 기반 예습 노트"}],["$","meta","5",{"property":"og:locale","content":"ko_KR"}],["$","meta","6",{"property":"og:image","content":"https://pbjuni-skala.github.io/no-base-potatoes-site/og.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:image:alt","content":"나는 감자다"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"No Base Potatoes"}],["$","meta","13",{"name":"twitter:description","content":"프로그래밍을 처음 배우는 사람이 수업 전에 읽는 근거 기반 예습 노트"}],["$","meta","14",{"name":"twitter:image","content":"https://pbjuni-skala.github.io/no-base-potatoes-site/og.png"}],["$","link","15",{"rel":"icon","href":"https://pbjuni-skala.github.io/no-base-potatoes-site/favicon.png","type":"image/png"}],["$","link","16",{"rel":"apple-touch-icon","href":"https://pbjuni-skala.github.io/no-base-potatoes-site/favicon.png","type":"image/png"}],["$","$L55","17",{}]]
